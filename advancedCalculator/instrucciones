@@ -1,0 +1,12 @@
+* Escribir el archivo LEX en con la extensión file.l y el archivo yacc como file.y
+
+*Abrir la terminal y navegar al directorio donde estén los archivos
+
+*Ejecutar lex file.l  
+
+*Ejecutar yacc -d file.y 
+
+*Ejecutar cc lex.yy.c y.tab.c -ll 
+
+*Ejecutar  ./a.out
+
