@@ -22,6 +22,12 @@ Recognizes the grammar for the lenguage L = {a<sup>n</sup>b<sup>n</sup> | n>0}
 <br />
 <br />
 
+### bookExample
+
+A simple calculator with more functions or features than the one from bookExample and bookExampleNoLEX
+<br />
+<br />
+
 ### LEX and YACC basic commands
 
 > lex myLex.l <br />
