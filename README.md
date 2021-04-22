@@ -20,9 +20,8 @@ Recognizes the grammar for the lenguage L = {a<sup>n</sup>b<sup>n</sup> | n>0}
 > Note: It is not case sensitive therefore a = A and b = B
 > 
 <br />
-<br />
 
-### bookExample
+### advancedCalculator
 
 A simple calculator with more functions or features than the one from bookExample and bookExampleNoLEX
 <br />
