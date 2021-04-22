@@ -1,3 +1,8 @@
+/**
+* created by Lucas Martinez - github: martinezlucas98
+* on april 21 2021
+**/
+
 %{
 #include <ctype.h>
 #include <stdio.h>
